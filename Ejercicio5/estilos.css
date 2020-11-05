@@ -1,0 +1,66 @@
+#borde1 {
+    margin: 2%;
+    border: 10px solid orange;
+    padding: 10px 10px 10px 20px;
+    background-color: palegoldenrod;
+    width: 40%;
+    text-align: justify;
+}
+#resaltado {
+    color: blue;
+    background-color: white;
+    font-weight: bold;
+}   
+#borde2 {
+    margin: 2%;
+    border: 3px dashed black;
+    border-radius: 10px 50px 10px 50px;
+    box-shadow: 10px 10px 10px grey;
+    padding: 10px 10px 20px 20px;
+    background-color: palegoldenrod;
+    width: 40%;
+    text-align: justify;
+ } 
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;    
+}
+#alinear_derecha {
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    width: 40%;
+    margin-right: 50px;
+ }
+ #borde3 {
+    border: black 12px solid;
+    border-image-source: url(img/bola-100.png);
+    text-align: justify;
+    margin: 2%;
+}#borde4 {
+    border: silver 27px solid;
+    border-image-source: url(img/pastilla.png);
+    border-image-slice: 27;
+    padding: 1%;
+    margin: 2%;
+}
+#borde5 {
+    border: silver 20px solid;
+    border-width: 50px 80px 20px 80px;
+    border-image-source: url(img/ventana.png);
+    border-image-slice: 50 80 20 80;
+    margin: 2%;
+}  
+#borde6 {
+    border: silver 40px solid;
+    border-image-source: url(img/hormigas.png);
+    border-image-slice: 70;
+    border-image-repeat: stretch;
+    margin: 2%;
+    }
+#azul {
+    color: blue;
+    font-weight: bold;    
