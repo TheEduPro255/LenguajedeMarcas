@@ -51,19 +51,19 @@ abbr{
 
 @font-face{
     font-family: "Dosis";
-    src: url("fuentes/dosis/Dosis-VariableFont_wght.ttf") format("truetype");
+    src: url("fuentes/Dosis-VariableFont_wght.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: "Architects Daughter";
-    src: url("fuentes/Architects_Daughter/ArchitectsDaughter-Regular.ttf") format("truetype");
+    src: url("fuentes/ArchitectsDaughter-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: "BalsamiqSans-Regular";
-    src: url("fuentes/Balsamiq_Sans/BalsamiqSans-Regular.ttf") format("truetype");
+    src: url("fuentes/BalsamiqSans-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
