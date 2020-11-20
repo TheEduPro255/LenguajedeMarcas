@@ -1,0 +1,68 @@
+<!DOCTYPE:html>
+<html>
+<head>
+  <title>formulario</title>
+</head> 
+<body>
+ <h1>Controles de formulario</h1>  
+<form action="" method="get">
+  <fieldset>
+   <legend>Datos Personales</legend>
+   <label for="Nombre">Nombre</label> 
+   <input type="text" name="nombre" size="40"></p>
+   <label for="email">Correo Electronico</label>
+   <input type="email" name="correo" size="40"></p>
+   <label for="Url">URL</label>
+   <input type="url" name="direccion" size="40"></p>
+   <label for="Ciudad">Ciudad</label>
+   <select name="Ciudad"> 
+  <option>Sevilla</option>
+  <option>Cordoba</option>
+  <option>Malaga</option>
+  <option>Huelva</option>
+  <option>Cadiz</option>
+  <option>Jaen</option>
+  <option>Granada</option>
+  <option>Almeria</option>
+</select></p> 
+</fieldset>
+<fieldset> 
+  <legend>Otros Datos</legend>
+  <label for="fecha">Fecha</label>
+  <input type="date"></p>
+  <label for="time">Tiempo</label>
+  <input type="time"></p>
+  <label for="datetime">Fecha y Hora</label>
+  <input type="datetime" placeholder="dd/mm/aaaa"></p>
+  <label for="Month">Mes</label>
+  <input type="Month"></p>
+  <label for="Week">Semana</label>
+  <input type="Week"></p>
+  <label for="Number">Numero</label>
+  <input type="Number" min="-10" max="10"></p>
+  <label for="tel">Telefono</label>
+  <input type="tel"></p>
+  <label for="search">Termino de busqueda</label>
+  <input type="search"></p>
+  <label for="color">Color Favorito</label>
+  <input type="color"></p>
+</fieldset>
+  <fieldset>
+    <legend>Otros controles</legend>
+    <label for="Aficiones">Aficiones</label></br>
+  <label for="Aficiones">Cine</label>
+  <input type="checkbox" checked="1">
+  <label for="Aficiones">Deporte</label>
+  <input type="checkbox"></p>
+  Formas de pago</br>
+  <label><input type="radio" name="pago" value="V">Visa</label>
+  <label><input type="radio" name="pago" value="A">American Express</label>
+  <label><input type="radio" name="pago" value="M">Master Card</label>
+  </fieldset></p>
+    <input type="submit" value="Enviar">
+    <input type="reset" value="Borrar">
+  </p>
+
+</form>
+</body>
+</html>
