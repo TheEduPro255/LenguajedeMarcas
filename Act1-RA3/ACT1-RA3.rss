@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version= "2.0">
+<channel>
+	<title>Bienvenidos a la pagina donde podras comprar el videojuego que tu quieras</title>
+	<link> https://theedupro255.github.io/LenguajedeMarcas/</link>
+	<description> Si quieres un videojuego de cualquier plataforma para pasar el rato este es el lugar.</description>
+	<skipDays>
+    <day>Saturday</day>
+    <day>Sunday</day>
+  </skipDays>
+  <skipHours>
+    <hour>0</hour>
+    <hour>1</hour>
+    <hour>2</hour>
+    <hour>3</hour>
+    <hour>4</hour>
+    <hour>5</hour>
+  </skipHours>
+	<language>es-es</language>
+	<lastBuildDate>Sat, 13 Feb 2021 12:15:30 GMT</lastBuildDate>
+	<image>
+		<url>https://www.minecraft.net/content/dam/minecraft/home/Games_Subnav_Minecraft-228x350.png</url>
+		<title>imagen-canal</title>
+		<link>https://theedupro255.github.io/LenguajedeMarcas/</link>
+	</image>	
+
+
+	<item>
+		<category>PC</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Minecraft</title>
+		<link>https://theedupro255.github.io/LenguajedeMarcas/</link>
+		<description>Minecraft para PC</description>
+		<pubDate>Sat, 13 Feb 2021 12:15:30 GMT</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/Games_Subnav_Minecraft-228x350.png"				   length ="6000000" type="image/png"/>
+	</item> 
+
+	<item>
+		<category>PS4</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Rocket League</title>
+		<link>https://theedupro255.github.io/LenguajedeMarcas/</link>
+		<description>Rocket League para PS4</description>
+		<pubDate>Sat, 13 Feb 2021 12:15:30 GMT</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/descarga%20(2).jpg"				   length ="6000000" type="image/jpg"/>	
+	</item>
+	<item>
+		<category>NDS</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Mario 64 NDS</title>
+		<link>https://theedupro255.github.io/LenguajedeMarcas/</link>
+		<description>Mario 64 para NDS</description>
+		<pubDate>Sat, 13 Feb 2021 12:15:30 GMT</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/descarga%20(1).jpg"				   length ="6000000" type="image/jpg"/>	
+		
+	</item>
+	<item>
+		<category>GameBoyAdvance</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Pokemon Esmeralda</title>
+		<link>https://theedupro255.github.io/LenguajedeMarcas/</link>
+		<description>Pokemon Esmeralda para GameBoyAdvance</description>
+		<pubDate>Sat, 13 Feb 2021 12:15:30 GMT</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/61602front-36-1.jpg"				   length ="6000000" type="image/jpg"/>		
+	</item>  
+</channel>
+</rss>	
