@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://github.com/TheEduPro255/LenguajedeMarcas">
+
+	<title>Videojuegos y sus plataformas</title>
+	<subtitle>Cosas sobre los videojuegos y las plataformas donde jugarlos</subtitle>
+	<link href ="https://github.com/TheEduPro255/LenguajedeMarcas"/>
+	<updated>2020-2-19 19:00</updated>
+	<author>
+		<name>Eduardo Ruz</name>
+		<email>a20ruloed@iesgrancapitan.org</email>
+	</author>
+	<id>https://github.com/TheEduPro255/LenguajedeMarcas</id>
+
+	<entry>
+		<category>PC</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Counter Strike Global Offensive</title>
+		<link href="https://theedupro255.github.io/LenguajedeMarcas/">
+		<description>Juegazo de shooter para pc</description>
+		<pubDate>Fri, 19 Feb 2021 19:00:00 GMT</pubDate> 
+	</entry>
+		
+	<entry>
+		<category>PS4</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Fifa 21</title>
+		<link href="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/atom/Fifa%2021.html">
+		<description>Fifa PS4</description>
+		<pubDate>Fri, 19 Feb 2021 19:00:00 GMT</pubDate>
+	</entry>		
+	
+	<entry>
+		<category>NDS</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Mario Kart nds</title>
+		<link href="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/atom/Mario%20kart%20ds.pdf">
+		<description>El clasico juego de coches con los personajes de mario bros para NDS</description>
+		<pubDate>Fri, 19 Feb 2021 19:00:00 GMT</pubDate>	
+	</entry>
+	<entry>
+		<category>Nintendo 64</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Mario 64</title>
+		<link href="https://www.youtube.com/watch?v=h6tFoIUyOdU">
+		<description>El famoso juego de mario en una de las primeras plataformas en la que salio</description>
+		<pubDate>Fri, 19 Feb 2021 19:00:00 GMT</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/61602front-36-1.jpeg"				   length ="70000" type="image/JPEG"/>		
+	</entry>
+	</feed>		
