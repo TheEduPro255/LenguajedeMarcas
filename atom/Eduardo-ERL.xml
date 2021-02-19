@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://github.com/TheEduPro255/">
+	<title> Videojuegos y sus plataformas</title>
+	<subtitle>Cosas sobre los videojuegos y las plataformas donde jugarlos</subtitle>
+	<link href ="https://github.com/TheEduPro255/LenguajedeMarcas"/>
+	<updated>2021-02-19T19:00:00Z</updated>
+	<author>
+		<name>Eduardo Ruz</name>
+		<email>a20ruloed@iesgrancapitan.org</email>
+	</author>
+	<id>https://github.com/TheEduPro255/LenguajedeMarcas</id>
+
+	<entry>
+		<title>Counter Strike Global Offensive</title>
+		<link href="https://theedupro255.github.io/LenguajedeMarcas/"/>
+		<id>https://theedupro255.github.io/LenguajedeMarcas/</id>
+		<updated>2021-02-19T19:00:00Z</updated>
+	</entry>
+		
+	<entry>
+		<title>Fifa 21 </title>
+		<link href="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/atom/Fifa%2021.html/"/>
+		<id>https://theedupro255.github.io/LenguajedeMarcas/</id>
+		<updated>2021-02-19T19:00:00Z</updated>
+	</entry>		
+	
+	<entry>
+		<title>Mario Kart nds</title>
+		<link href="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/atom/Mario%20kart%20ds.pdf"/>
+		<id>https://theedupro255.github.io/LenguajedeMarcas/</id>
+		<updated>2021-02-19T19:00:00Z</updated>	
+	</entry>
+	<entry>
+		<title>Mario 64</title>
+		<link href="https://www.youtube.com/watch?v=h6tFoIUyOdU"/>
+		<id>https://theedupro255.github.io/LenguajedeMarcas/</id>	
+		<updated>2021-02-19T19:00:00Z</updated>
+	</entry>
+	</feed>		
