@@ -7,6 +7,7 @@
 <a href ="Actividad 1 Repaso/Eduardo-RL.html">Ejercicio 1 Repaso</a><br>
 <a href ="Formulario1/Formulario.html">Formulario1</a><br>
 <a href ="Act1-RA3/ACT1-RA3.rss">RSS</a><br>
-<a href ="atom/Eduardo-ERL.xml">Atom</a> 
+<a href ="atom/Eduardo-ERL.xml">Atom</a><br>
+<a href ="Act1-RA3/Sindicacion.xml">RSS2022></a>  
 </body>
 </html>
