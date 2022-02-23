@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>Real Madrid</title>
+	<link> https://theedupro255.github.io/LenguajedeMarcas/</link>
+	<description>Noticias del Real madrid aqui</description>
+	<language>es-es</language>
+	<lastBuildDate>Thu, 17 Feb 2022 15:55:30 GMT</lastBuildDate>
+	<skipDays>
+    	<day>Saturday</day>
+    	<day>Sunday</day>
+  	</skipDays>
+  	<skipHours>
+    	<hour>0</hour>
+    	<hour>1</hour>
+    	<hour>2</hour>
+    	<hour>3</hour>
+    	<hour>4</hour>
+    	<hour>5</hour>
+  	</skipHours>
+  	<image>
+		<url>https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/descarga.png</url>
+		<title>Real Madrid</title>
+		<link>https://theedupro255.github.io/LenguajedeMarcas/</link>
+	</image>
+	<item>
+		<category>Hace 1 dia</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Derrota del Real Madrid</title>
+		<link>https://www.mundodeportivo.com/futbol/real-madrid/20220216/1001751635/datos-derrota-real-madrid.html</link>
+		<description>Datos de la derrota del Real madrid a manos del PSG. Mas informacion:https://www.mundodeportivo.com/futbol/real-madrid/20220216/1001751635/datos-derrota-real-madrid.html</description>
+		<pubDate>Thu, 17 Feb 2022 16:20:30 GMT</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/madrid.png" length="9000"
+ type="png"/>
+	</item>
+	<item>
+		<category>Actualidad</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Fede valverde quiere mas minutos</title>
+		<link>https://www.marca.com/futbol/real-madrid/2022/02/19/620eafa422601d4b468b45b1.html</link>
+		<description>Fede Valverde está siendo paciente, pero su habitual suplencia le tiene en alerta. Mas informacion:https://www.marca.com/futbol/real-madrid/2022/02/19/620eafa422601d4b468b45b1.html</description>
+		<pubDate>Sat, 19 Feb 2022 10:33:30 GMT</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/16451293912171.png" length="9000"
+ 		type="png"/>
+	</item>
+	<item>
+		<category>Jornada 25</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>Victoria contundente del real madrid</title>
+		<link>https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/real.jpg</link>
+		<description>Victoria del Real Madrid ante el deportivo alaves por un contundente 3-0</description>
+		<pubDate>Sat, 19 Feb 2022 10:55:30 GMT</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/1645212688_874418_1645215298_noticia_normal_recorte1.png" length="9000"
+ 		type="png"/>
+	</item>
+	<item>
+		<category>Mbappe</category>
+		<author>a20ruloed@iesgrancapitan.org</author>
+		<title>El Real Madrid niega haber presionado a Mbappé</title>
+		<link>https://www.mundodeportivo.com/futbol/real-madrid/20220221/1001753702/real-madrid-niega-haber-presionado-mbappe.html</link>	
+		<description>El club blanco asegura que no le ha dado un ultimátum</description>
+		<pubDate>Wed, 23 Feb 2022 10:34:40</pubDate>
+		<enclosure url="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/Act1-RA3/img/620cb1b88e9d3.jpeg" length="9000" type="png"/>		
+</channel>
+</rss>
