@@ -8,6 +8,7 @@
 <a href ="Formulario1/Formulario.html">Formulario1</a><br>
 <a href ="Act1-RA3/ACT1-RA3.rss">RSS</a><br>
 <a href ="atom/Eduardo-ERL.xml">Atom</a><br>
-<a href ="Act1-RA3/Real madrid.xml">RSS-2022</a>  
+<a href ="Act1-RA3/Real madrid.xml">RSS-2022</a><br>
+<a href ="Act1-RA3/Validador.html">Validador Rss2022</a>
 </body>
 </html>
