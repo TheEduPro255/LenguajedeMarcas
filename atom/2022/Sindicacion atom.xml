@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://github.com/TheEduPro255/">
+    <title> Noticias del Real Madrid </title>
+    <subtitle> Informacion acerca del Real Madrid</subtitle>
+    <link href ="https://github.com/TheEduPro255/LenguajedeMarcas"/>
+    <updated>2022-02-24T15:24:00Z</updated>
+    <author>
+        <name>Eduardo Ruz</name>
+        <email>a20ruloed@iesgrancapitan.org</email>
+    </author>
+    <id>https://github.com/TheEduPro255/LenguajedeMarcas</id>    
+
+    <entry>
+        <title>El entorno de Haaland avisa al Real Madrid</title>
+        <updated>2022-02-24T15:28:00Z</updated>
+        <link href="https://www.mundodeportivo.com/futbol/real-madrid/20220224/1001755064/entorno-haaland-avisa-real-madrid.html"/>
+        <summary>"Por favor, detengan estas historias del 'acuerdo 2023'. Erling Haaland no es un coche de segunda mano", escribió Jan Aage Fjörtoft, muy cercano a la familia Haaland</summary>
+        <link rel="enclosure"
+            type="image/jpeg"
+            title="Haaland"
+            href="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/atom/621609bb19252.jpeg"
+            length="9000" />
+    </entry>
+
+    <entry>
+        <title>El Madrid redescubre los lunes</title>
+        <updated>2022-02-24T15:42:00Z</updated>
+        <link href="https://as.com/futbol/2022/02/22/primera/1645565713_247459.html"/>
+        <summary>Los de Ancelotti se medirán con el Mallorca el 14 de marzo, un año después de su último partido en el estreno de la semana, contra la Real Sociedad en el Di Stéfano (1-1).</summary>
+        <link rel="enclosure"
+           type="image/jpeg"
+           title="Real madrid"
+           href="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/atom/2022/1645565713_247459_1645566017_noticia_normal.jpg"
+           length="9000" />
+    </entry>        
+
+    <entry>
+        <title>Militao: prioridad total al Real Madrid</title>
+        <updated>2022-02-24T15:50:00Z</updated>
+        <link href="https://www.marca.com/futbol/real-madrid/2022/02/19/620d142c22601d89308b45dc.html"/>
+        <summary>El Chelsea, entre otros, ha llamado al central, que hablará con el club para renovar.</summary>
+        <link rel="enclosure"
+           type="image/jpeg"
+           title="Militao"
+           href="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/atom/2022/16450101581939.jpg"
+           length="9000" />
+    </entry>       
+
+    <entry>
+        <title>El Real Madrid no piensa en una revolución para la próxima temporada</title>
+        <updated>2022-02-24T15:59:00Z</updated>
+        <link href="https://www.marca.com/futbol/real-madrid/2022/02/20/620fe235268e3e582c8b45db.html"/>
+        <summary>Las derrotas como la del PSG suelen traer en los equipos grandes rumores de cambios de todo tipo. No los esperen en el club madridista</summary>
+        <link rel="enclosure"
+           type="image/jpeg"
+           title="revolución"
+           href="https://github.com/TheEduPro255/LenguajedeMarcas/blob/gh-pages/atom/2022/16452066640869.jpg"
+           length="9000" />
+    </entry>        
+</feed>            
