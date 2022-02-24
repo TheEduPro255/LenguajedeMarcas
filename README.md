@@ -9,6 +9,7 @@
 <a href ="Act1-RA3/ACT1-RA3.rss">RSS</a><br>
 <a href ="atom/Eduardo-ERL.xml">Atom</a><br>
 <a href ="Act1-RA3/Real madrid.xml">RSS-2022</a><br>
-<a href ="Act1-RA3/Validador.html">Validador Rss2022</a>
+<a href ="Act1-RA3/Validador.html">Validador Rss2022</a><br>
+<a href ="atom/2022/Sindicacion atom.xml">Atom2022</a>  
 </body>
 </html>
